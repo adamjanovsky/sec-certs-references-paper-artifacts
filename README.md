@@ -6,3 +6,4 @@ The reader can find here the following files:
 - [Annotation codebook](codebook.pdf): the codebook for the manual annotating the context of inter-certificate references.
 - [Feature table](feature_table.csv): All spatial and language features (together with their description) chosen by [Catboost](https://catboost.ai/en/docs/concepts/python-reference_catboost_select_features) and utilized in the gradient boosted trees.
 - [Hyperparameter tunning](hyperparameter_tunning.md): Description of all hyperparameters that were searched when finetunning the model.
+- [Hyperparameters](hyperparameters/): The best (and all searched) hyperparameter values and the whole protocol captured by Optuna

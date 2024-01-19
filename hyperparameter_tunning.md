@@ -30,4 +30,3 @@ We identified several steps of the hyperparameter tunning process with the follo
 - Optuna was used to suggest the hyperparameters, the value ranges can be read out from the scripts. Each of the steps run for 24 hours at most.
 - Extractor yielded (4,4) as the best hyperparameter set. However, the same setting was used and produced much worse performance. The default setting (1,2) (after, before) was used instead, that produces more consitent results.
 - The git revision used for finding the optimal set of parameters was: **Anonymized**
-- All searched values and the whole protocol captured by Optuna can be found at [./../hyperparameters/](./../hyperparameters/)
