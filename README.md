@@ -6,7 +6,7 @@ The reader can find here the following files:
 
 **Data**:
 - [Manual annotations](https://github.com/crocs-muni/sec-certs/tree/31063a6d07033a589d727c70805d9b6843af8317/src/sec_certs/data/reference_annotations): For the manual annotations of reference contexts, we refer the reader to the `sec-certs repository.
-- [Hyperparameters](data/hyperparameters/): The best (and all searched) hyperparameter values and the whole protocol captured by Optuna
+- [Hyperparameters](data/hyperparameter_tuning/): The best (and all searched) hyperparameter values and the whole protocol captured by Optuna
 - [plots](data/plots/): The CSV files produced by `references.ipynb` notebook (see below) and consumed by `plots.ipynb` notebook (see below).
 - [Model evaluation](data/model_evaluation/): Model-evaluation data produced by the `prediction.ipynb` notebook (see below).
 - [Vulnerability propagation experiment](data/vulnerability_propagation_experiment): Data related to the experiment mapping the propagation of vulnerabilities in the realm of CC-certified products.
