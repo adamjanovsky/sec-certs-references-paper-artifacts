@@ -10,7 +10,7 @@ The reader can find here the following files:
 - [plots](data/plots/): The CSV files produced by `references.ipynb` notebook (see below) and consumed by `plots.ipynb` notebook (see below).
 - [Model evaluation](data/model_evaluation/): Model-evaluation data produced by the `prediction.ipynb` notebook (see below).
 - [Vulnerability propagation experiment](data/vulnerability_propagation_experiment): Data related to the experiment mapping the propagation of vulnerabilities in the realm of CC-certified products.
-- The dataset of CC-related artifacts was produced with `sec-certs` tool and can be obtained from:
+- [Dataset](https://seccerts.org/static/cc_november_2023.tar.zst) of CC-related artifacts was produced with `sec-certs` tool and dates to November 1, 2023.
 
 **Documents**:
 
